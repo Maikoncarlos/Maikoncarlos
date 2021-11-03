@@ -1,17 +1,16 @@
-Olá Seja Bem Vindo ao Meu GitHub !!! 👋
+# Olá Seja Bem Vindo ao Meu GitHub !!! 👋
 
-Meu nome é Maikon Saturno Carlos, apaixonado por tecnologia e tudo que ela tem o poder de fazer e transformar!
+### Meu nome é Maikon, apaixonado por tecnologia e tudo o que ela pode fazer e transformar!
 
 - 🔭 Atulamente trabalho em uma Empresa de Soluções em Marteking de Premiações, aprimorando, desenvolvendo e corrigindo bugs em sistemas web, focados para linguagem Java...
-- 🌱 Atualmente estou aprimorando meus conhecimentos em desenvolvimento de Sistemas Java com Framework Spring Boot e Angular...
-- 👯 Estou procurando colaborar em projetos como sistema de cadastro com Spring Boot, Spring Data Jpa e validação de Querys.
-- 🤔 Estou procurando uma oportunidade para demostrar meus conhecimentos colocando na prática dentro de uma empresa de TI, assim aprendendo cada vez mais...
-- 📫 Como entrar em contato comigo: celular(011) 95788-9800 / email: maikonsaturno@gmail.com / LinkedIn: https://www.linkedin.com/in/maikon-saturno-carlos-aa7723201/
+- 🌱 Sempre estou aprimorando meus conhecimentos como Desenvolvedor de Sistemas Java onde quero me especializar, Framework Spring e aprimorando meus conhecimentos também na parte Front com Angular e React..
+- 👯 Estou procurando colaborar em projetos como sistema de cadastro Crud, utilizando Spring Boot, Spring Data Jpa, Banco de Dados PostgreSql, Configuração do Swagger para Documentar as chamadas HTTP e fazendo os testes com Postman nos endpoints.
+
 
 <div align="center">
   <a href="https://github.com/Maikoncarlos">
-  <img width="450em"  height="180em" src="https://github-readme-stats.vercel.app/api?username=Maikoncarlos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="380em"  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maikoncarlos&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Maikoncarlos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maikoncarlos&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Maikon-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> 
