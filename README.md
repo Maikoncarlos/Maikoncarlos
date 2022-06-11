@@ -2,9 +2,9 @@
 
 ### Meu nome é Maikon, apaixonado por tecnologia e tudo o que ela pode fazer e transformar!
 
-- 🔭 Atulamente trabalho em uma Empresa de Consultoria de TI alocado dentro do Banco Santander, desenvolvendo e corrigindo bugs em sistemas web, focados para linguagem Java, prestação sustentação em sistemas de integração entre micro serviços por filaMQ, ou chamando nossa API diretamente.
+- 🔭 Atulamente trabalho na Porto, desenvolvendo e corrigindo bugs em sistemas web, focados para linguagem Java, prestação sustentação em sistemas de integração entre micro serviços por FeignClient, ou integrações com Front End.
 - 🌱 Sempre estou aprimorando meus conhecimentos como Desenvolvedor de Sistemas Java onde quero me especializar, Framework Spring e Cloud com AWS onde quero chegar a ser um Especialista em Java com AWS.
-- 👯 Estou procurando colaborar em projetos, utilizando Spring Boot, Spring Data Jpa, Banco de Dados PostgreSql, Configuração do Swagger para Documentar as chamadas HTTP e fazendo os testes com Postman nos endpoints.
+- 👯 Estou procurando colaborar em projetos, utilizando Spring Boot, Spring Data Jpa, Banco de Dados PostgreSql, Configuração do Swagger para Documentar as chamadas Rest, fazendo os testes de integrações com Postman e aprimorando o conceito de TDD com Junit e Mockito para aumentar a Qualidade e cobertura de testes em minhas aplicações.
 
 
 <div align="center">
