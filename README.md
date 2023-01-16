@@ -7,18 +7,20 @@
 - 👯 Estou procurando colaborar em projetos, utilizando Spring Boot, Spring Data Jpa, Banco de Dados PostgreSql, Configuração do Swagger para Documentar as chamadas Rest, fazendo os testes de integrações com Postman e aprimorando o conceito de TDD com Junit e Mockito para aumentar a Qualidade e cobertura de testes em minhas aplicações.
 
 
-<div align="center">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Maikoncarlos&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
+<div 
+     align="center">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Maikoncarlos&show_icons=true&theme=dark&include_all_commits=false&count_private=true"
+ />
+    
 </div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Maikon-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> 
   <img align="center" alt="Maikon-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img align="center" alt="Maikon-PostgreSql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="Maikon-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="center" alt="Maikon-Heroku" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" />
-  <img align="center" alt="Maikon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Maikon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Maikon-BootsTrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  
   </div>
   
   ##
