@@ -2,9 +2,10 @@
 
 ### Meu nome é Maikon, apaixonado por tecnologia e tudo o que ela pode fazer e transformar!
 
-- 🔭 Atulamente trabalho na Porto, desenvolvendo e corrigindo bugs em sistemas web, focados para linguagem Java, prestação sustentação em sistemas de integração entre micro serviços por FeignClient, ou integrações com Front End.
-- 🌱 Sempre estou aprimorando meus conhecimentos como Desenvolvedor de Sistemas Java onde quero me especializar, Framework Spring e Cloud com AWS onde quero chegar a ser um Especialista em Java com AWS.
-- 👯 Estou procurando colaborar em projetos, utilizando Spring Boot, Spring Data Jpa, Banco de Dados PostgreSql, Configuração do Swagger para Documentar as chamadas Rest, fazendo os testes de integrações com Postman e aprimorando o conceito de TDD com Junit e Mockito para aumentar a Qualidade e cobertura de testes em minhas aplicações.
+- 🔭 Atulamente trabalho na Porto, desenvolvendo sistemas backend, focados para linguagem Java versão 8 e 17, utilizando arquitetura Clean Cloud e ou Hexagonal, aplicações no conceito BFF e BFB e Microserviços independentes.
+Recursos da AWS que já tive contato: S3, SQS, DynamoDB. além de Cache com Redis, Chamadas Assincronas com CompletureFeature e CI com Jenkins.
+- 🌱 Sempre estou aprimorando meus conhecimentos como Desenvolvedor de Sistemas Java onde quero me especializar, juntamente com o serviço Cloud AWS.
+- 👯 Estou procurando colaborar em projetos, utilizando Spring Boot, Spring Data Jpa, Banco de Dados PostgreSql, Configuração do Swagger para Documentar as chamadas Rest, fazendo os testes de integrações com Postman e aprimorando o conceito de TDD com Junit e Mockito para aumentar a Qualidade e cobertura de testes em minhas aplicações, além de estudar os serviços mais utilzados da AWS.
 
 
 <div 
@@ -16,10 +17,8 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Maikon-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> 
-  <img align="center" alt="Maikon-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img align="center" alt="Maikon-PostgreSql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="Maikon-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-  <img align="center" alt="Maikon-Heroku" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" />
   
   </div>
   
